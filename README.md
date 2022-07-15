@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @albertojoao
-- 👀 I’m interested in interacting with the community and learning.
-- 🌱 I’m currently learning python 
+
 - 📫 How to reach me - e-mail - allbertto.joao@gmail.com
 
 <!---
